@@ -23,7 +23,7 @@ namespace Calculadora
 
                 do
                 {
-                    Console.WriteLine("---------------CALCULADORA------------");
+                    Console.WriteLine("-----------  ----CALCULADORA------------");
                     Console.WriteLine("Introduce el primer número:");
                     double a = LeerNumero();
 
