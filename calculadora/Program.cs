@@ -1,4 +1,5 @@
-﻿using System; // Importa el espacio de nombres System que contiene las clases básicas del framework .NET
+//Sebastian Borja
+using System; // Importa el espacio de nombres System que contiene las clases básicas del framework .NET
 using System.Globalization; // Importa el espacio de nombres System.Globalization que proporciona clases específicas para la cultura o región, como CultureInfo
 
 namespace Calculadora // Declara un espacio de nombres llamado Calculadora para organizar el código
